@@ -41,7 +41,7 @@ namespace NinjaTrader.NinjaScript.Indicators
 
     public class ManualTradePoster : Indicator
     {
-        private const string VERSION = "v1.0.0";
+        private const string VERSION = "TradeSenderBot v1.0.0";
 
         // ===== Inputs =====
         [NinjaScriptProperty, Display(Name="EnabledPosting", GroupName="Upload", Order=0)]
